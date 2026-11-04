@@ -15,3 +15,8 @@ GitHub → Settings → Pages → *Deploy from a branch* → `main` / `/ (root)`
 
 ---
 Desarrollado por **VINCULAR BUSINESS** · (387) 4484132 · vincularbusiness@gmail.com · «Tu idea, en buenas manos.»
+
+## QR
+- `qr-menu.png`: solo el QR (para insertarlo en otros diseños).
+- `qr-menu-cartel.png`: cartel listo para imprimir con logo y QR.
+Ambos apuntan a `https://raveholding.github.io/ELBARBA/` y funcionan cuando GitHub Pages esté activo.
